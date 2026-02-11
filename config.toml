@@ -1,0 +1,45 @@
+baseURL = "https://kaylenpillay.com/"
+languageCode = "en-us"
+title = "Kaylen Pillay"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "light"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    url = "/about-me/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "published"
+    name = "Published Works"
+    url = "/published-works/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "free"
+    name = "Free Works"
+    url = "/free-works/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "paintings"
+    name = "Paintings"
+    url = "/paintings/"
+    weight = 4
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
