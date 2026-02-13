@@ -20,22 +20,17 @@ enableRobotsTXT = true
     weight = 1
 
   [[menu.main]]
-    identifier = "published"
-    name = "Published Works"
-    url = "/published-works/"
+    identifier = "upcoming"
+    name = "Upcoming Releases"
+    url = "/upcoming-releases/"
     weight = 2
 
   [[menu.main]]
-    identifier = "free"
-    name = "Free Works"
-    url = "/free-works/"
-    weight = 3
+    identifier = "short works"
+    name = "Short Works"
+    url = "/short-works/"
+    weight = 2
 
-  [[menu.main]]
-    identifier = "paintings"
-    name = "Paintings"
-    url = "/paintings/"
-    weight = 4
 
 [outputs]
   home = ["HTML"]
