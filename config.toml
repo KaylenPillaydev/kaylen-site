@@ -5,36 +5,50 @@ theme = "PaperMod"
 
 enableRobotsTXT = true
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
   defaultTheme = "light"
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
+  ShowFooter = true
+
+[[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/draetpublishing"
+
+[[params.socialIcons]]
+    name = "youtube"
+    url = "https://youtube.com/@KaylensArtStudio"
+
+[[params.socialIcons]]
+    name = "patreon"
+    url = "https://patreon.com/kaylenpillay"
 
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "About me"
-    url = "/about-me/"
+    identifier = "index"
+    name = "The Author"
+    url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "upcoming"
-    name = "Upcoming Releases"
-    url = "/upcoming-releases/"
+    name = "Upcoming Projects"
+    url = "/upcoming-projects/"
     weight = 2
 
   [[menu.main]]
     identifier = "short works"
     name = "Short Works"
     url = "/short-works/"
-    weight = 2
-
+    weight = 3
 
 [outputs]
   home = ["HTML"]
   section = ["HTML"]
   taxonomy = ["HTML"]
   term = ["HTML"]
-

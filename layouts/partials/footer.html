@@ -1,0 +1,6 @@
+<footer class="footer">
+  <div class="footer-inner">
+    {{ partial "social_icons.html" (dict "align" "center" "site" .Site) }}
+    <span>&copy; {{ now.Format "2006" }} {{ site.Title }}</span>
+  </div>
+</footer>
