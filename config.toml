@@ -14,6 +14,7 @@ unsafe = true
   ShowShareButtons = false
   ShowPostNavLinks = true
   ShowFooter = true
+  mainSections = []
 
 [[params.socialIcons]]
     name = "x"
@@ -31,7 +32,7 @@ unsafe = true
 
   [[menu.main]]
     identifier = "index"
-    name = "The Author"
+    name = "About the Author"
     url = "/"
     weight = 1
 
@@ -42,9 +43,9 @@ unsafe = true
     weight = 2
 
   [[menu.main]]
-    identifier = "short works"
-    name = "Short Works"
-    url = "/short-works/"
+    identifier = "short stories"
+    name = "Short Stories"
+    url = "/short-stories/"
     weight = 3
 
 [outputs]

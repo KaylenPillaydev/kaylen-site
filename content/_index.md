@@ -2,14 +2,17 @@
 title: About The Author
 ---
 
+# About The Author
+
 I write speculative fiction across dark fantasy, horror, and epic fiction. My work explores indentity, power, belief and transformation through intimate character-focused narratives.
 
-You can find me on the following platforms:
+## Where to Find Me
+
 ---
 
 **Newsletter** - News on upcoming projects and free monthly short stories.
 
-{{< mlpopup "KPjFcB" "Click here to show form" >}}
+{{< mlpopup "KPjEcB" "Click here to show form" >}}
 
 ---
 
