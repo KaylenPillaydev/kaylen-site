@@ -10,12 +10,6 @@ I write speculative fiction across dark fantasy, horror, and epic fiction. My wo
 
 ---
 
-**Newsletter** - News on upcoming projects and free monthly short stories.
-
-<div class="ml-embedded" data-form="ovCAnj"></div>
-
----
-
 **X (Twitter)** - Updates, musings and project announcements
 
 https://x.com/draetpublishing
@@ -31,5 +25,11 @@ https://youtube.com/@KaylensArtStudio
 **Patreon** - Support my work here
 
 https://patreon.com/kaylenpillay
+
+---
+
+**Newsletter** - News on upcoming projects and free monthly short stories.
+
+<div class="ml-embedded" data-form="ovCAnj"></div>
 
 ---
