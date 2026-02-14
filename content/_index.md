@@ -12,7 +12,7 @@ I write speculative fiction across dark fantasy, horror, and epic fiction. My wo
 
 **Newsletter** - News on upcoming projects and free monthly short stories.
 
-{{< mlpopup "KPjEcB" "Click here to show form" >}}
+<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'KJqQ2J', true)">Click here to show form</a>
 
 ---
 
