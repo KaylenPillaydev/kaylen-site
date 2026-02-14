@@ -30,6 +30,6 @@ https://patreon.com/kaylenpillay
 
 **Newsletter** - News on upcoming projects and free monthly short stories.
 
-<div class="ml-embedded" data-form="ovCAnj"></div>
+<div id="newsletter"> <div class="ml-embedded" data-form="ovCAnj"></div>
 
 ---
