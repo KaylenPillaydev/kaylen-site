@@ -3,7 +3,6 @@ title: Life and Death
 date: 2026-01-01
 description: "Life mourns as Death comes for the last living being"
 ---
-## Life and Death
 
 You know I am here, even if you haven’t seen me yet. After all this time together, you can feel my presence. The icy chill that fills the air when I approach. The shadows that grow long and deep. The stillness in the air. Yes, you know I am here, and you know why I’ve come. I find you atop a small hill, lying on your side. Next to you, a small feathered thing cries softly. I watch from a distance as you cradle the creature, singing softly to it. But still the cries continue. It looks so frail, cradled in your arms. I walk towards you, and to my surprise, you do not flee.
 
